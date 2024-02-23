@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bch31ac7827b6"
+path="res://.godot/imported/Yuno Miles - 4 Wheeler (Ft.YunoMarr) (Official Video).mp3-b09559b106b182d7240d20e538778867.mp3str"
+
+[deps]
+
+source_file="res://папка1/Yuno Miles - 4 Wheeler (Ft.YunoMarr) (Official Video).mp3"
+dest_files=["res://.godot/imported/Yuno Miles - 4 Wheeler (Ft.YunoMarr) (Official Video).mp3-b09559b106b182d7240d20e538778867.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
